@@ -1,1 +1,2 @@
-Basically this projectb is about creating a websites.
+Resume
+Basically this project is about creating a websites.
